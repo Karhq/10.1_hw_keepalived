@@ -48,10 +48,10 @@ virtual_ipaddress {
 #### Ответ:  
 
 Нода 1  
-![Скрин](https://github.com/Karhq/10.1_hw_keepalived/blob/main/Node_1_1.png)  
-![Скрин](https://github.com/Karhq/10.1_hw_keepalived/blob/main/Node_1_2.png)  
+![Скрин](https://github.com/Karhq/10.1_hw_keepalived/blob/main/Node_1.1.png)  
+![Скрин](https://github.com/Karhq/10.1_hw_keepalived/blob/main/Node_1.2.png)  
 
 Нода 2  
-![Скрин](https://github.com/Karhq/10.1_hw_keepalived/blob/main/Node_2_1.png)  
-![Скрин](https://github.com/Karhq/10.1_hw_keepalived/blob/main/Node_2_2.png)  
+![Скрин](https://github.com/Karhq/10.1_hw_keepalived/blob/main/Node_2.1.png)  
+![Скрин](https://github.com/Karhq/10.1_hw_keepalived/blob/main/Node_2.2.png)  
 
